@@ -1,0 +1,15 @@
+.question-list {
+  list-style-type: none;
+  background-color: #dbdbdb;
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  border-radius: 8px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+}
+.option1 {
+  cursor: pointer;
+  margin-right: 10px;
+}
